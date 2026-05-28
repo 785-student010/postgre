@@ -1,0 +1,1 @@
+select emp_id, balance from account;
